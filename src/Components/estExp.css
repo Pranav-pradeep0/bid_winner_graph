@@ -1,0 +1,21 @@
+.expenses-items{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.exp-item-parent{
+    padding-left: 60px;
+}
+
+.item-details{
+    margin: 3px;
+    padding: 0;
+}
+
+.color-blocks{
+    width: 40px;
+    height: 40px;
+    border-radius: 3px;
+}
